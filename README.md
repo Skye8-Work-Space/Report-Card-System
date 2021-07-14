@@ -20,6 +20,6 @@ to do any modification on the main branch.
 - Create a pull request to be confirmed from the main branch
 
 
--##Collaborators
-@elroykanye
-@andrew21-mch
+- ## Collaborators  
+@elroykanye  
+@andrew21-mch  
